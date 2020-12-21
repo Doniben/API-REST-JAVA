@@ -1,4 +1,6 @@
-com/esperantomarket/HolaMundocontroller.java
- com.esperantomarket.HolaMundocontroller
+com/esperantomarket/persistence/entity/Compra.java
+ com.esperantomarket.persistence.entity.Compra
 com/esperantomarket/EsperantoMarketApplication.java
  com.esperantomarket.EsperantoMarketApplication
+com/esperantomarket/persistence/entity/Producto.java
+ com.esperantomarket.persistence.entity.Producto
